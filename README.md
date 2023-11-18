@@ -25,11 +25,3 @@
 ## Top Programming Languages 🚀
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vadymmakohon&layout=compact&theme=radical)
-
-## Connect with Me 🌐
-
-Feel free to reach out! I'm always open to new opportunities, collaborations, or just a friendly chat.
-
-- LinkedIn: [Vadym Makohon](https://www.linkedin.com/in/vadymmakohon/)
-- Twitter: [@vadym_makohon](https://twitter.com/vadym_makohon)
-- Email: vadym.makohon@example.com
