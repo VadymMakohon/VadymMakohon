@@ -3,7 +3,7 @@
 
 🚀 A data-driven professional transitioning into software development. My career journey has taken me from operation management to department management, and now I'm excitedly exploring roles like Software Developer, Data Analyst, Business Analyst, or Project Manager. With a strong foundation in problem-solving and a passion for technology, I am committed to continuous learning and am currently enhancing my skills in Python, JavaScript, HTML, CSS, and .NET. 🌐
 
-## 👩‍💻 Technical Skills
+## Technical Skills 👩‍💻 
 <a href="" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="HTML5" width="45" height="45"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS" width="45" height="45"/></a>  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/29753/javascript.svg" alt="JavaScript" width="45" height="45"/></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" width="45" height="45"/></a>  <a href="https://dotnet.microsoft.com/en-us/languages" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/372837/dotnet.svg" alt="DotNet" width="45" height="45"/></a> 
 
 ## Skills & Expertise 🔧
