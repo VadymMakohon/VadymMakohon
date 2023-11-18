@@ -22,8 +22,8 @@
  
 ## GitHub Stats 📊
 
-![Vadym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vadymmakohon&show_icons=true&hide=prs&count_private=true&theme=radical)
+![Vadym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VadymMakohon&show_icons=true&hide=prs&count_private=true&theme=radical)
 
 ## Top Programming Languages 🚀
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vadymmakohon&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VadymMakohon&layout=compact&theme=radical)
