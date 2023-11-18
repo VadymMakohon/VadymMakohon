@@ -1,6 +1,8 @@
 <h1 align="center">👋 Hello, I'm Vadym Makohon</h1>
 <h3 align="center">Aspiring Software Developer and Data Analyst 🚀</h3>
 
+![VM](https://github.com/VadymMakohon/VadymMakohon/assets/138728243/e197652c-cb9a-42b4-b865-018e849673e6)
+
 🚀 A data-driven professional transitioning into software development. My career journey has taken me from operation management to department management, and now I'm excitedly exploring roles like Software Developer, Data Analyst, Business Analyst, or Project Manager. With a strong foundation in problem-solving and a passion for technology, I am committed to continuous learning and am currently enhancing my skills in Python, JavaScript, HTML, CSS, and .NET. 🌐
 
 ## Technical Skills 👩‍💻 
