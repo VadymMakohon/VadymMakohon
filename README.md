@@ -10,7 +10,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS" width="45" height="45"/></a>
 <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" alt="JavaScript" width="45" height="45"/></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" width="45" height="45"/></a>
-<a href="https://dotnet.microsoft.com/en-us/languages" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/372837/dotnet.svg" alt="DotNet" width="45" height="45"/></a>
+<a href="https://dotnet.microsoft.com/en-us/languages" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="DotNet" width="45" height="45"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/439233/mysql.svg" alt="MySQL" width="45" height="45"/></a>
 <a href="https://azure.microsoft.com/en-in" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/331732/microsoft-azure.svg" alt="Azure" width="45" height="45"/></a>
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://www.victoryinfotech.com/wp-content/uploads/2021/09/Untitled-design-30.png" alt="Kotlin" width="45" height="45"/></a>
