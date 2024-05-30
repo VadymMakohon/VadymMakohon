@@ -3,7 +3,8 @@
 
 ![VM](https://github.com/VadymMakohon/VadymMakohon/assets/138728243/e197652c-cb9a-42b4-b865-018e849673e6)
 
-🚀 A data-driven professional transitioning into software development. My career journey has taken me from operation management to department management, and now I'm excitedly exploring roles like Software Developer, Data Analyst, Business Analyst, or Project Manager. With a strong foundation in problem-solving and a passion for technology, I am committed to continuous learning and am currently enhancing my skills in Python, JavaScript, HTML, CSS, and .NET. 🌐
+🚀 Hi, I’m Vadym, and I'm software developer from a rich background in operational and department management. My journey includes extensive experience in business analysis, process optimization, and team leadership. I am a certified Scrum Master and am currently enhancing my technical skills in Python, JavaScript, HTML, CSS, and .NET through a full-stack development bootcamp. I'm passionate about technology and continuous improvement, and I'm eager to leverage my problem-solving skills and technical expertise in a software development or full-stack development role.![image](https://github.com/VadymMakohon/VadymMakohon/assets/138728243/89cb8a2e-4838-487f-8b05-676655cc01b0)
+ 🌐
 
 ## Technical Skills 👩‍💻 
 <a href="https://www.svgrepo.com/show/452228/html-5.svg" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="HTML5" width="45" height="45"/></a>
