@@ -16,6 +16,9 @@
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://www.victoryinfotech.com/wp-content/uploads/2021/09/Untitled-design-30.png" alt="Kotlin" width="45" height="45"/></a>
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://www.sommelierdecafe.com/wp-content/uploads/2009/06/java-logo1-1.png" alt="Java" width="45" height="45"/></a>
 
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 ## Skills & Expertise 🔧
 
