@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Vadym Makohon</h1>
-<h3 align="center">Aspiring Software Developer 🚀</h3>
+<h3 align="center"> Software Developer 🚀</h3>
 
 ![VM](https://github.com/VadymMakohon/VadymMakohon/assets/138728243/e197652c-cb9a-42b4-b865-018e849673e6)
 
