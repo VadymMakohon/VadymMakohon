@@ -3,7 +3,7 @@
 
 ![VM](https://github.com/VadymMakohon/VadymMakohon/assets/138728243/e197652c-cb9a-42b4-b865-018e849673e6)
 
-🚀 Hi, I’m Vadym, and I'm software developer from a rich background in operational and project management. My journey includes extensive experience in business analysis, process optimization, and team leadership. I am a certified Scrum Master and am currently enhancing my technical skills in Python, JavaScript, HTML, CSS, and .NET through a full-stack development bootcamp. I'm passionate about technology and continuous improvement, and I'm eager to leverage my problem-solving skills and technical expertise in a software development or full-stack development role. 🌐
+🚀 Hi, I’m Vadym, and I'm software developer from a rich background in operational and project management. My journey includes extensive experience in business analysis, process optimization, and team leadership. I am a certified Scrum Master and am currently enhancing my technical skills in Python, JavaScript, HTML, CSS, and .NET through a full-stack development bootcamp. I'm passionate about technology and continuous improvement, and I'm eager to leverage my problem-solving skills and technical expertise in a software development or full-stack development role. Let's connect and explore the exciting possibilities of the tech world together! 🌐
 
 ## Technical Skills 👩‍💻 
 <a href="https://www.svgrepo.com/show/452228/html-5.svg" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="HTML5" width="45" height="45"/></a>
