@@ -6,16 +6,52 @@
 🚀 Hi, I’m Vadym, and I'm software developer from a rich background in operational and project management. My journey includes extensive experience in business analysis, process optimization, and team leadership. I am a certified Scrum Master and am currently enhancing my technical skills in Python, JavaScript, HTML, CSS, and .NET through a full-stack development bootcamp. I'm passionate about technology and continuous improvement, and I'm eager to leverage my problem-solving skills and technical expertise in a software development or full-stack development role. Let's connect and explore the exciting possibilities of the tech world together! 🌐
 
 ## Technical Skills 👩‍💻 
-<a href="https://www.svgrepo.com/show/452228/html-5.svg" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="HTML5" width="45" height="45"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS" width="45" height="45"/></a>
-<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" alt="JavaScript" width="45" height="45"/></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" width="45" height="45"/></a>
-<a href="https://dotnet.microsoft.com/en-us/languages" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="DotNet" width="45" height="45"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/439233/mysql.svg" alt="MySQL" width="45" height="45"/></a>
-<a href="https://azure.microsoft.com/en-in" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/331732/microsoft-azure.svg" alt="Azure" width="45" height="45"/></a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://www.victoryinfotech.com/wp-content/uploads/2021/09/Untitled-design-30.png" alt="Kotlin" width="45" height="45"/></a>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://www.sommelierdecafe.com/wp-content/uploads/2009/06/java-logo1-1.png" alt="Java" width="45" height="45"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="45" height="45"/></a>
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3>Skills Mastered:</h3>
+      <div>
+        <a href="https://www.svgrepo.com/show/452228/html-5.svg" target="_blank" rel="noreferrer">
+          <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="HTML5" width="45" height="45" style="margin: 5px;"/>
+        </a>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+          <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS" width="45" height="45" style="margin: 5px;"/>
+        </a>
+        <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
+          <img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" alt="JavaScript" width="45" height="45" style="margin: 5px;"/>
+        </a>
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+          <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" width="45" height="45" style="margin: 5px;"/>
+        </a>
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+          <img src="https://www.svgrepo.com/show/439233/mysql.svg" alt="MySQL" width="45" height="45" style="margin: 5px;"/>
+        </a>
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="45" height="45" style="margin: 5px;"/>
+        </a>
+      </div>
+    </td>
+    <td valign="top">
+      <h3>Skills Learning:</h3>
+      <div>
+        <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+          <img src="https://www.victoryinfotech.com/wp-content/uploads/2021/09/Untitled-design-30.png" alt="Kotlin" width="45" height="45" style="margin: 5px;"/>
+        </a>
+        <a href="https://dotnet.microsoft.com/en-us/languages" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="DotNet" width="45" height="45" style="margin: 5px;"/>
+        </a>
+        <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+          <img src="https://www.sommelierdecafe.com/wp-content/uploads/2009/06/java-logo1-1.png" alt="Java" width="45" height="45" style="margin: 5px;"/>
+        </a>
+        <a href="https://azure.microsoft.com/en-in" target="_blank" rel="noreferrer">
+          <img src="https://www.svgrepo.com/show/331732/microsoft-azure.svg" alt="Azure" width="45" height="45" style="margin: 5px;"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
