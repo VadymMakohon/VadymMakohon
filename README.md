@@ -66,7 +66,7 @@
 - **Project Management:** Demonstrated ability in managing full lifecycle projects, focusing on efficiency and process improvement. 🔄
 
 - **Leadership:** Proven leadership skills, managing a team of 45 at NorgesGruppen ASA, driving operational excellence, and leading successful staff wellness and recruitment initiatives. 🏢💼
- 
+
 ## GitHub Stats 📊
 
 <table>
@@ -81,6 +81,7 @@
 </table>
 
 <p align="left">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=VadymMakohon&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=VadymMakohon&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" alt="Vadym's GitHub Streaks">
 </p>
+
 
