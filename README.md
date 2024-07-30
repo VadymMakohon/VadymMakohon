@@ -47,6 +47,9 @@
         <a href="https://azure.microsoft.com/en-in" target="_blank" rel="noreferrer">
           <img src="https://www.svgrepo.com/show/331732/microsoft-azure.svg" alt="Azure" width="45" height="45" style="margin: 5px;"/>
         </a>
+        <a href="https://www.ibm.com/topics/what-is-cobol" target="_blank" rel="noreferrer">
+    <img src="https://techchannel.com/wp-content/uploads/hero-images/4F8CD805-A271-4694-BDF5-E1698F98E839.jpg" alt="COBOL" width="45" height="45" style="margin: 5px;"/>
+  </a>
       </div>
     </td>
   </tr>
