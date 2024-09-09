@@ -12,7 +12,9 @@
 
 ![VM](https://github.com/VadymMakohon/VadymMakohon/assets/138728243/e197652c-cb9a-42b4-b865-018e849673e6)
 
-🚀 Hi, I’m Vadym, and I'm software developer from a rich background in operational and project management. My journey includes extensive experience in business analysis, process optimization, and team leadership. I am a certified Scrum Master and am currently enhancing my technical skills in Python, JavaScript, HTML, CSS, and .NET through a full-stack development bootcamp. I'm passionate about technology and continuous improvement, and I'm eager to leverage my problem-solving skills and technical expertise in a software development or full-stack development role. Let's connect and explore the exciting possibilities of the tech world together! 🌐
+🚀 Hi, I’m Vadym, a software developer with a diverse background in operational and project management. My expertise spans business analysis, process optimization, and team leadership, all fueled by a passion for continuous improvement and technology. As a certified Scrum Master and a full-stack development bootcamp graduate, I’ve honed my skills in Python, JavaScript, HTML, CSS, and .NET. Currently, I’m deepening my technical expertise by mastering C# and COBOL.
+
+I thrive in solving complex problems and building innovative solutions, and I’m excited to bring my unique blend of leadership and development skills to new challenges in the tech world. Let’s connect and explore how we can collaborate in this exciting and ever-evolving industry! 🌐
 
 ## Technical Skills 👩‍💻 
 
