@@ -97,5 +97,3 @@ I thrive in solving complex problems and building innovative solutions, and I’
 <p align="left">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=VadymMakohon&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" alt="Vadym's GitHub Streaks">
 </p>
-
-
