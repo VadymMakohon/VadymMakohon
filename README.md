@@ -89,7 +89,7 @@ I’m particularly interested in leadership, project management, digital transfo
 
 <p align="center">
   <img
-    src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=VadymMakohon&show_icons=true&hide=prs&theme=radical&height=250"
+    src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=VadymMakohon&show_icons=true&hide=prs&theme=radical&height=290"
     alt="Vadym's GitHub Stats"
   />
   <img
