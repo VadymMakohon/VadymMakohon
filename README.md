@@ -91,14 +91,10 @@ I’m particularly interested in leadership, project management, digital transfo
   <img
     src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=VadymMakohon&show_icons=true&hide=prs&theme=radical"
     alt="Vadym's GitHub Stats"
-    width="495"
-    height="195"
   />
   <img
-    src="https://github-readme-stats-me-amirroox.vercel.app/api/top-langs/?username=VadymMakohon&layout=compact&theme=radical"
+    src="https://github-readme-stats-me-amirroox.vercel.app/api/top-langs/?username=VadymMakohon&layout=compact&theme=radical&langs_count=5"
     alt="Top Languages"
-    width="495"
-    height="195"
   />
 </p>
 
