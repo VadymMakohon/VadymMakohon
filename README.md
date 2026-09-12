@@ -83,17 +83,20 @@ I thrive in solving complex problems and building innovative solutions, and I’
 
 ## GitHub Stats 📊
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=VadymMakohon&show_icons=true&hide=prs&count_private=true&theme=radical" alt="Vadym's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VadymMakohon&layout=compact&theme=radical" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=VadymMakohon&show_icons=true&hide=prs&theme=radical"
+    alt="Vadym's GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VadymMakohon&layout=compact&theme=radical"
+    alt="Top Languages"
+  />
+</p>
 
-<p align="left">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=VadymMakohon&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" alt="Vadym's GitHub Streaks">
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=VadymMakohon&theme=highcontrast&hide_border=true&border_radius=5&card_width=800"
+    alt="Vadym's GitHub Streak"
+  />
 </p>
