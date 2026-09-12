@@ -89,7 +89,7 @@ I thrive in solving complex problems and building innovative solutions, and I’
     alt="Vadym's GitHub Stats"
   />
   <img
-    src="https://github-readme-language-me-amirroox.vercel.app/api/top-langs/?username=VadymMakohon&layout=compact&theme=radical"
+    src="https://github-readme-stats-me-amirroox.vercel.app/api/top-langs/?username=VadymMakohon&layout=compact&theme=radical"
     alt="Top Languages"
   />
 </p>
