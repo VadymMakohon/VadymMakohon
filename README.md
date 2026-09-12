@@ -84,12 +84,12 @@ I thrive in solving complex problems and building innovative solutions, and I’
 ## GitHub Stats 📊
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=VadymMakohon&show_icons=true&hide=prs&theme=radical"
+  <img
+    src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=VadymMakohon&show_icons=true&hide=prs&theme=radical"
     alt="Vadym's GitHub Stats"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VadymMakohon&layout=compact&theme=radical"
+  <img
+    src="https://github-readme-stats-me-amirroox.vercel.app/api/top-langs/?username=VadymMakohon&layout=compact&theme=radical"
     alt="Top Languages"
   />
 </p>
