@@ -8,13 +8,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!++this+is+Vadym;Welcome+to+my+profile!;If+you+are+sparked+sth;from+my+repo;plz+give+me+star!!!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 </p>
 <h1 align="center">👋 Hello, I'm Vadym Makohon</h1>
-<h3 align="center"> Software Developer 🚀</h3>
+<h3 align="center"> Operational Leader | Project Management | Process Improvement | Technology</h3>
 
 ![VM](https://github.com/VadymMakohon/VadymMakohon/assets/138728243/e197652c-cb9a-42b4-b865-018e849673e6)
 
-🚀 Hi, I’m Vadym, a software developer with a diverse background in operational and project management. My expertise spans business analysis, process optimization, and team leadership, all fueled by a passion for continuous improvement and technology. As a certified Scrum Master and a full-stack development bootcamp graduate, I’ve honed my skills in Python, JavaScript, HTML, CSS, and .NET. Currently, I’m deepening my technical expertise by mastering C# and COBOL.
+🚀 I’m a leader with a background in operational management, project coordination, process improvement, and people development. Throughout my career, I have led teams, managed budgets and operations, improved processes, and worked across different industries where people, business, and technology need to work together.
 
-I thrive in solving complex problems and building innovative solutions, and I’m excited to bring my unique blend of leadership and development skills to new challenges in the tech world. Let’s connect and explore how we can collaborate in this exciting and ever-evolving industry! 🌐
+My approach to leadership is built around trust, accountability, continuous improvement, and creating an environment where people can perform and develop. I have experience with personnel management, KPI follow-up, budgeting, project coordination, change initiatives, and cross-functional collaboration.
+
+Alongside my leadership and business background, I have a strong passion for technology and software development. I’m a certified Scrum Master and a full-stack development bootcamp graduate, with experience in Python, JavaScript, HTML, CSS, and .NET. I continue to develop my technical skills through C# and COBOL, because I believe that strong leaders in technology should understand both the people and the technology behind the solutions they lead.
+
+I’m particularly interested in leadership, project management, digital transformation, process improvement, and technology-driven business development. 🌐
 
 ## Technical Skills 👩‍💻 
 
