@@ -93,7 +93,7 @@ I’m particularly interested in leadership, project management, digital transfo
     alt="Vadym's GitHub Stats"
   />
   <img
-    src="https://github-readme-stats-me-amirroox.vercel.app/api/top-langs/?username=VadymMakohon&layout=compact&theme=radical&langs_count=5"
+    src="https://github-readme-stats-me-amirroox.vercel.app/api/top-langs/?username=VadymMakohon&layout=compact&theme=radical&langs_count=6"
     alt="Top Languages"
   />
 </p>
