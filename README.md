@@ -10,9 +10,7 @@
 <h1 align="center">👋 Hello, I'm Vadym Makohon</h1>
 <h3 align="center"> Operational Leader | Project Management | Process Improvement | Technology</h3>
 
-![VM](https://github.com/VadymMakohon/VadymMakohon/assets/138728243/e197652c-cb9a-42b4-b865-018e849673e6)
 <img width="1584" height="396" alt="Dark Blue Technology Project Manager LinkedIn Background Photo" src="https://github.com/user-attachments/assets/482e44a5-4f33-4b02-8c7a-478ac589f290" />
-
 
 🚀 I’m a leader with a background in operational management, project coordination, process improvement, and people development. Throughout my career, I have led teams, managed budgets and operations, improved processes, and worked across different industries where people, business, and technology need to work together.
 
